@@ -1,31 +1,31 @@
-"","TEAM_ABBREVIATION","GROUP_NAME","OFF_RATING","DEF_RATING","NET_RATING","AST_PCT","REB_PCT","TS_PCT","PACE","W_PCT"
-"1","DEN","K. Caldwell-Pope - A. Gordon - N. Jokic - J. Murray - M. Porter Jr.",125,111.5,13.5,0.643,0.541,0.625,97.37,0.778
-"2","OKC","S. Gilgeous-Alexander - L. Dort - J. Giddey - C. Holmgren - J. Williams",118.8,109.5,9.4,0.642,0.473,0.613,103.62,0.721
-"3","HOU","F. VanVleet - D. Brooks - J. Green - A. Sengun - J. Smith Jr.",112.2,111.7,0.4,0.662,0.505,0.569,100.16,0.511
-"4","SAC","H. Barnes - D. Sabonis - D. Fox - K. Huerter - K. Murray",119.9,113.9,6.1,0.68,0.498,0.614,103.33,0.587
-"5","MIN","M. Conley - R. Gobert - K. Towns - A. Edwards - J. McDaniels",118.9,109.7,9.1,0.619,0.526,0.617,97.11,0.698
-"6","BOS","J. Holiday - K. Porzingis - J. Brown - J. Tatum - D. White",121.2,109.2,12,0.61,0.516,0.631,101.37,0.778
-"7","MIL","B. Lopez - D. Lillard - K. Middleton - G. Antetokounmpo - M. Beasley",122,106.9,15.1,0.619,0.523,0.63,104.32,0.641
-"8","LAC","J. Harden - P. George - K. Leonard - I. Zubac - T. Mann",119.5,109.5,10,0.625,0.522,0.613,94.64,0.683
-"9","WAS","T. Jones - K. Kuzma - D. Gafford - J. Poole - D. Avdija",114.9,116,-1.1,0.645,0.465,0.588,104.96,0.214
-"10","PHX","K. Durant - B. Beal - J. Nurkic - D. Booker - G. Allen",123.6,115,8.6,0.674,0.525,0.638,101.14,0.625
-"11","CHI","D. DeRozan - N. Vucevic - A. Caruso - C. White - A. Dosunmu",105.7,108.5,-2.8,0.676,0.463,0.562,100.63,0.5
-"12","NOP","J. Valanciunas - C. McCollum - B. Ingram - Z. Williamson - H. Jones",115.5,115.7,-0.2,0.648,0.528,0.6,102.87,0.625
-"13","SAS","D. Vassell - T. Jones - J. Champagnie - J. Sochan - V. Wembanyama",113.8,110.5,3.3,0.77,0.516,0.6,103.29,0.27
-"14","IND","M. Turner - P. Siakam - A. Nembhard - T. Haliburton - A. Nesmith",111.4,105.5,5.9,0.705,0.47,0.587,102.32,0.591
-"15","TOR","D. Schroder - J. Poeltl - P. Siakam - O. Anunoby - S. Barnes",112.5,113.4,-0.9,0.697,0.511,0.583,100.85,0.407
-"16","LAL","L. James - A. Davis - D. Russell - R. Hachimura - A. Reaves",115.3,110.2,5,0.697,0.511,0.627,102.67,0.739
-"17","CLE","D. Mitchell - J. Allen - M. Strus - D. Garland - E. Mobley",113.3,110.9,2.4,0.653,0.508,0.596,101,0.615
-"18","BKN","S. Dinwiddie - D. Finney-Smith - M. Bridges - N. Claxton - C. Johnson",113.9,106.9,7,0.647,0.514,0.553,96.76,0.37
-"19","ORL","G. Harris - W. Carter Jr. - F. Wagner - J. Suggs - P. Banchero",114.5,103,11.5,0.614,0.52,0.615,98.19,0.789
-"20","ATL","C. Capela - D. Murray - T. Young - S. Bey - J. Johnson",108.4,120.7,-12.4,0.614,0.513,0.537,105.92,0.429
-"21","UTA","K. Dunn - L. Markkanen - J. Collins - C. Sexton - S. Fontecchio",125.9,121.6,4.3,0.722,0.532,0.628,103.45,0.65
-"22","GSW","S. Curry - D. Green - A. Wiggins - J. Kuminga - B. Podziemski",117.3,105,12.3,0.716,0.51,0.601,103.24,0.542
-"23","NYK","J. Randle - J. Brunson - M. Robinson - R. Barrett - Q. Grimes",111.2,104.8,6.4,0.553,0.495,0.56,100.13,0.643
-"24","PHI","N. Batum - T. Harris - J. Embiid - D. Melton - T. Maxey",135.2,101.3,34,0.658,0.566,0.672,103.73,0.857
-"25","MIA","J. Butler - T. Rozier - B. Adebayo - D. Robinson - N. Jovic",109.1,115.8,-6.8,0.677,0.464,0.589,99.3,0.5
-"26","DAL","K. Irving - D. Jones Jr. - P. Washington - L. Doncic - D. Gafford",114.8,97.6,17.2,0.589,0.525,0.59,105.07,0.867
-"27","DET","I. Stewart - C. Cunningham - J. Ivey - J. Duren - A. Thompson",110.4,118.1,-7.7,0.655,0.548,0.574,99.98,0.286
-"28","CHA","V. Micic - M. Bridges - N. Richards - T. Mann - B. Miller",111.8,120.7,-8.9,0.625,0.444,0.594,92.2,0.25
-"29","POR","J. Grant - M. Brogdon - D. Ayton - S. Sharpe - T. Camara",106.8,113.4,-6.7,0.602,0.468,0.556,101.05,0.5
-"30","MEM","M. Smart - J. Jackson Jr. - X. Tillman - D. Bane - Z. Williams",94.7,100,-5.3,0.679,0.473,0.491,104.82,0
+"","MIN","TEAM_ABBREVIATION","GROUP_NAME","OFF_RATING","DEF_RATING","NET_RATING","AST_PCT","REB_PCT","TS_PCT","PACE","W_PCT"
+"1",895,"DEN","K. Caldwell-Pope - A. Gordon - N. Jokic - J. Murray - M. Porter Jr.",125,111.5,13.5,0.643,0.541,0.625,97.37,0.778
+"2",782,"OKC","S. Gilgeous-Alexander - L. Dort - J. Giddey - C. Holmgren - J. Williams",118.8,109.5,9.4,0.642,0.473,0.613,103.62,0.721
+"3",754,"HOU","F. VanVleet - D. Brooks - J. Green - A. Sengun - J. Smith Jr.",112.2,111.7,0.4,0.662,0.505,0.569,100.16,0.511
+"4",669,"SAC","H. Barnes - D. Sabonis - D. Fox - K. Huerter - K. Murray",119.9,113.9,6.1,0.68,0.498,0.614,103.33,0.587
+"5",610,"MIN","M. Conley - R. Gobert - K. Towns - A. Edwards - J. McDaniels",118.9,109.7,9.1,0.619,0.526,0.617,97.11,0.698
+"6",606,"BOS","J. Holiday - K. Porzingis - J. Brown - J. Tatum - D. White",121.2,109.2,12,0.61,0.516,0.631,101.37,0.778
+"7",599,"MIL","B. Lopez - D. Lillard - K. Middleton - G. Antetokounmpo - M. Beasley",122,106.9,15.1,0.619,0.523,0.63,104.32,0.641
+"8",593,"LAC","J. Harden - P. George - K. Leonard - I. Zubac - T. Mann",119.5,109.5,10,0.625,0.522,0.613,94.64,0.683
+"9",577,"WAS","T. Jones - K. Kuzma - D. Gafford - J. Poole - D. Avdija",114.9,116,-1.1,0.645,0.465,0.588,104.96,0.214
+"10",466,"PHX","K. Durant - B. Beal - J. Nurkic - D. Booker - G. Allen",123.6,115,8.6,0.674,0.525,0.638,101.14,0.625
+"11",433,"CHI","D. DeRozan - N. Vucevic - A. Caruso - C. White - A. Dosunmu",105.7,108.5,-2.8,0.676,0.463,0.562,100.63,0.5
+"12",421,"NOP","J. Valanciunas - C. McCollum - B. Ingram - Z. Williamson - H. Jones",115.5,115.7,-0.2,0.648,0.528,0.6,102.87,0.625
+"13",404,"SAS","D. Vassell - T. Jones - J. Champagnie - J. Sochan - V. Wembanyama",113.8,110.5,3.3,0.77,0.516,0.6,103.29,0.27
+"14",385,"IND","M. Turner - P. Siakam - A. Nembhard - T. Haliburton - A. Nesmith",111.4,105.5,5.9,0.705,0.47,0.587,102.32,0.591
+"15",366,"TOR","D. Schroder - J. Poeltl - P. Siakam - O. Anunoby - S. Barnes",112.5,113.4,-0.9,0.697,0.511,0.583,100.85,0.407
+"16",358,"LAL","L. James - A. Davis - D. Russell - R. Hachimura - A. Reaves",115.3,110.2,5,0.697,0.511,0.627,102.67,0.739
+"17",337,"CLE","D. Mitchell - J. Allen - M. Strus - D. Garland - E. Mobley",113.3,110.9,2.4,0.653,0.508,0.596,101,0.615
+"18",313,"BKN","S. Dinwiddie - D. Finney-Smith - M. Bridges - N. Claxton - C. Johnson",113.9,106.9,7,0.647,0.514,0.553,96.76,0.37
+"19",292,"ORL","G. Harris - W. Carter Jr. - F. Wagner - J. Suggs - P. Banchero",114.5,103,11.5,0.614,0.52,0.615,98.19,0.789
+"20",289,"ATL","C. Capela - D. Murray - T. Young - S. Bey - J. Johnson",108.4,120.7,-12.4,0.614,0.513,0.537,105.92,0.429
+"21",256,"UTA","K. Dunn - L. Markkanen - J. Collins - C. Sexton - S. Fontecchio",125.9,121.6,4.3,0.722,0.532,0.628,103.45,0.65
+"22",232,"GSW","S. Curry - D. Green - A. Wiggins - J. Kuminga - B. Podziemski",117.3,105,12.3,0.716,0.51,0.601,103.24,0.542
+"23",228,"NYK","J. Randle - J. Brunson - M. Robinson - R. Barrett - Q. Grimes",111.2,104.8,6.4,0.553,0.495,0.56,100.13,0.643
+"24",219,"PHI","N. Batum - T. Harris - J. Embiid - D. Melton - T. Maxey",135.2,101.3,34,0.658,0.566,0.672,103.73,0.857
+"25",181,"MIA","J. Butler - T. Rozier - B. Adebayo - D. Robinson - N. Jovic",109.1,115.8,-6.8,0.677,0.464,0.589,99.3,0.5
+"26",151,"DAL","K. Irving - D. Jones Jr. - P. Washington - L. Doncic - D. Gafford",114.8,97.6,17.2,0.589,0.525,0.59,105.07,0.867
+"27",145,"DET","I. Stewart - C. Cunningham - J. Ivey - J. Duren - A. Thompson",110.4,118.1,-7.7,0.655,0.548,0.574,99.98,0.286
+"28",115,"CHA","V. Micic - M. Bridges - N. Richards - T. Mann - B. Miller",111.8,120.7,-8.9,0.625,0.444,0.594,92.2,0.25
+"29",113,"POR","J. Grant - M. Brogdon - D. Ayton - S. Sharpe - T. Camara",106.8,113.4,-6.7,0.602,0.468,0.556,101.05,0.5
+"30",68,"MEM","M. Smart - J. Jackson Jr. - X. Tillman - D. Bane - Z. Williams",94.7,100,-5.3,0.679,0.473,0.491,104.82,0
